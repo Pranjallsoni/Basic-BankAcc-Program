@@ -25,6 +25,5 @@ Methods	credit(), debit(), and get_balance() handle account actions
 
 
 
-Add transaction history
 
-Apply validation (e.g., prevent overdraft)
+
